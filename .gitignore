@@ -1,0 +1,9 @@
+*
+!.gitignore
+!.nojekyll
+!robots.txt
+!README.md
+!api_jpeg/
+!api_jpeg/**/
+!api_jpeg/**/*.jpg
+!api_jpeg/**/*.mp4
